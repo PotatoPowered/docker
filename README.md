@@ -1,5 +1,7 @@
 # Potato Powered Software - Dockerfiles
 Dockerfiles for Potato Powered Software development and testing.
 
-## CakePHP 3.x Default
-[![](https://images.microbadger.com/badges/version/potatopowered/cakephp3.svg)](https://hub.docker.com/r/potatopowered/cakephp3/) [![](https://images.microbadger.com/badges/image/potatopowered/cakephp3.svg)](https://microbadger.com/images/potatopowered/cakephp3)
+# Supported tags and respective `Dockerfile` links
+
+-	[`php7` (*5.7/Dockerfile*)](https://github.com/PotatoPowered/docker/blob/master/cakephp/development/php5.6/apache/Dockerfile)
+-	[`5.6`, `latest` (*5.6/Dockerfile*)](https://github.com/PotatoPowered/docker/blob/master/cakephp/development/php7/apache/Dockerfile)
