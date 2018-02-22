@@ -14,9 +14,6 @@ RUN docker-php-ext-install mbstring
 RUN docker-php-ext-install pdo_mysql
 RUN docker-php-ext-install zip
 
-RUN pecl install xdebug
-RUN docker-php-ext-enable xdebug
-
 #####ADD ADDITIONAL INSTALLS OR MODULES BELOW######### 
 #####ADD ADDITIONAL INSTALLS OR MODULES ABOVE######### 
 
